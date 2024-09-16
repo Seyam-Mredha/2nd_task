@@ -1,0 +1,10 @@
+p{
+  background-color: blueviolet;
+  border: 10px;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  color: brown;
+  width: 150px;
+  box-shadow: 10px 5px 5px turquoise;
+}
